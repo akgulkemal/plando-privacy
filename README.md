@@ -12,7 +12,7 @@ This repository contains the privacy policy, terms of service, and support infor
 
 For technical support, feature requests, or general questions:
 
-- **Email**: support@plando.app
+- **Email**: akgulkemal@gmail.com
 - **Developer**: Kemal Akgül
 - **Response Time**: Within 24-48 hours
 - **Support Hours**: Monday - Friday, 9:00 AM - 6:00 PM (GMT+3)
