@@ -19,7 +19,7 @@ For technical support, feature requests, or general questions:
 
 ## About PlanDo
 
-PlanDo is a powerful GTD (Getting Things Done) productivity app designed to help you organize your tasks, projects, and life efficiently.
+PlanDo is a powerful productivity app designed to help you organize your tasks, projects, and life efficiently.
 
 ### Key Features
 
